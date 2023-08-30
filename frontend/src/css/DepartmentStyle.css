@@ -152,16 +152,19 @@ table td {
   background-color: #da251d;
 }
 
-.Add{
+.Add {
   background-color: green;
   color: white;
   border-radius: 5px;
   padding: 10px;
   cursor: pointer;
 }
-.AddButton{
+.AddButton {
   display: flex;
-  align-items: end;
+  align-items: flex-end;
   justify-content: flex-end;
   padding: 15px 15px;
+}
+.redWarning {
+  color: #da251d;
 }
